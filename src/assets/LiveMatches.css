@@ -1,0 +1,34 @@
+.live-matches-title-box{
+    max-width: 200px;
+    height: 40px;
+    margin: auto;
+    margin-top: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.live-matches-title-box h2{
+    color: whitesmoke;
+    cursor: context-menu;
+}
+.live-matches-wrapper{
+    max-width: 700px;
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    margin-top: 40px;
+}
+.no-match-box{
+    width: 240px;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+}
+.no-match-box p{
+    color: whitesmoke;
+    font-size: 20px;
+    color: whitesmoke;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+.main-wrapper{
+  width: 100%;
+  height: 100vh;
+  background-color: #212529;
+  overflow: auto;
+}
+.project-name h1{
+  color: whitesmoke;
+  margin-top: 40px;
+  text-align: center;
+  font-size: 60px;
+}
